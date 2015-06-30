@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{A6BCBAFF-A14F-4148-A37E-784DED6D350C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicProgramming", "DynamicProgramming\DynamicProgramming.csproj", "{775118FC-9EED-44AA-9415-B5224A45F256}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775118FC-9EED-44AA-9415-B5224A45F256}.Debug|x86.ActiveCfg = Debug|x86
+		{775118FC-9EED-44AA-9415-B5224A45F256}.Debug|x86.Build.0 = Debug|x86
+		{775118FC-9EED-44AA-9415-B5224A45F256}.Release|x86.ActiveCfg = Release|x86
+		{775118FC-9EED-44AA-9415-B5224A45F256}.Release|x86.Build.0 = Release|x86
 		{A6BCBAFF-A14F-4148-A37E-784DED6D350C}.Debug|x86.ActiveCfg = Debug|x86
 		{A6BCBAFF-A14F-4148-A37E-784DED6D350C}.Debug|x86.Build.0 = Debug|x86
 		{A6BCBAFF-A14F-4148-A37E-784DED6D350C}.Release|x86.ActiveCfg = Release|x86
